@@ -1,0 +1,9 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\PrimeNumber.cpp	/^class A{$/;"	class	line:5	file:
+IsPrimeNumber	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\PrimeNumber.cpp	/^    bool IsPrimeNumber(int num){$/;"	function	line:8	class:A	signature:(int num)
+main	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\PrimeNumber.cpp	/^int main(){$/;"	function	line:26	signature:()
