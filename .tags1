@@ -4,6 +4,6 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-A	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\PrimeNumber.cpp	/^class A{$/;"	class	line:5	file:
-IsPrimeNumber	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\PrimeNumber.cpp	/^    bool IsPrimeNumber(int num){$/;"	function	line:8	class:A	signature:(int num)
-main	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\PrimeNumber.cpp	/^int main(){$/;"	function	line:26	signature:()
+A	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\ReverseNum.cpp	/^class A{$/;"	class	line:12	file:
+ReverseTheNum	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\ReverseNum.cpp	/^       int ReverseTheNum(int num){$/;"	function	line:15	class:A	signature:(int num)
+main	C:\Users\Getem\Desktop\100 Days Of Code\CPP-Programs\ReverseNum.cpp	/^int main(){$/;"	function	line:31	signature:()
